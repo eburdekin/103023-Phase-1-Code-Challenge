@@ -58,11 +58,10 @@ function renderOneMovie(movieObj) {
 //Added event listeners to Buy Ticket buttons as they are created above
 
 function handleBuyButton(movieObj) {
-        //Assign new ticket amount to variable
-        const ticketsSold = (movieObj.tickets_sold) -= 1
 
     if (movieObj.tickets_sold > 0) {
-
+            //Assign new ticket amount to variable
+    const ticketsSold = (movieObj.tickets_sold) -= 1
         //EXTRA BONUS 1 - PATCH
         fetch(`${movieAPI}/${movieObj.id}`, {
             method: 'PATCH',
