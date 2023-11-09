@@ -79,7 +79,7 @@ function handleBuyButton(movieObj) {
             }
             )
     }
-    if (movieObj.tickets_sold === 0) {
+    else if (movieObj.tickets_sold === 0) {
         alert('No tickets left!')
     }
 }
