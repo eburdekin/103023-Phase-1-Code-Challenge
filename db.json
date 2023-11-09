@@ -6,7 +6,7 @@
       "runtime": "108",
       "capacity": 30,
       "showtime": "04:00PM",
-      "tickets_sold": 3,
+      "tickets_sold": 0,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
     },
@@ -46,7 +46,7 @@
       "runtime": "96",
       "capacity": 50,
       "showtime": "03:30PM",
-      "tickets_sold": 37,
+      "tickets_sold": 35,
       "description": "The Martians kidnap Santa Claus because there is nobody on Mars to give their children presents.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/4232/p4232_v_v8_aa.jpg"
     },
@@ -96,7 +96,7 @@
       "runtime": "122",
       "capacity": 50,
       "showtime": "10:00PM",
-      "tickets_sold": 23,
+      "tickets_sold": 15,
       "description": "Giant spiders from another dimension invade Wisconsin.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/42171/p42171_v_v8_ab.jpg"
     },
@@ -106,7 +106,7 @@
       "runtime": "104",
       "capacity": 30,
       "showtime": "06:00PM",
-      "tickets_sold": 1,
+      "tickets_sold": 0,
       "description": "A group of swingin' teens take time out from having fun in the sun to try to foil a group of crooks searching for a stolen scroll.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/58122/p58122_v_v8_aa.jpg"
     },
@@ -116,7 +116,7 @@
       "runtime": "104",
       "capacity": 30,
       "showtime": "07:00PM",
-      "tickets_sold": 5,
+      "tickets_sold": 0,
       "description": "A series of murders in Michigan lead an American secret agent to Amsterdam, where he uncovers a plot to imperil the world with a potent new drug.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/93417/p93417_v_v8_aa.jpg",
       "showing_id": "12"
