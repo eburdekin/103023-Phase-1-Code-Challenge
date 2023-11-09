@@ -6,7 +6,7 @@
       "runtime": "108",
       "capacity": 30,
       "showtime": "04:00PM",
-      "tickets_sold": 1,
+      "tickets_sold": 0,
       "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
     },
@@ -96,7 +96,7 @@
       "runtime": "122",
       "capacity": 50,
       "showtime": "10:00PM",
-      "tickets_sold": 27,
+      "tickets_sold": 23,
       "description": "Giant spiders from another dimension invade Wisconsin.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/42171/p42171_v_v8_ab.jpg"
     },
@@ -127,7 +127,7 @@
       "runtime": "100",
       "capacity": 40,
       "showtime": "09:00PM",
-      "tickets_sold": 14,
+      "tickets_sold": 10,
       "description": "A stock car driver goes undercover as the wheel man for a motorcycle gang.",
       "poster": "https://www.gstatic.com/tv/thumb/v22vodart/45367/p45367_v_v8_aa.jpg"
     },
