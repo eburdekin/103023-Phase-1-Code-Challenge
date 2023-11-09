@@ -59,9 +59,11 @@ function renderOneMovie(movieObj) {
 
 function handleBuyButton(movieObj) {
 
-    if (movieObj.tickets_sold > 0) {
-            //Assign new ticket amount to variable
+    //Assign new ticket amount to variable
     const ticketsSold = (movieObj.tickets_sold) -= 1
+
+    if (movieObj.tickets_sold > 0) {
+
         //EXTRA BONUS 1 - PATCH
         fetch(`${movieAPI}/${movieObj.id}`, {
             method: 'PATCH',
